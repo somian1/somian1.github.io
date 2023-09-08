@@ -1,0 +1,30 @@
+#intro {
+    text-align: center;
+}
+
+#about {
+    background-color: lavenderblush;
+    font-family: "Monaco";
+}
+
+#portfolio {
+    background-color: lavenderblush;
+    font-family: "Monaco";
+}
+
+.portfolio-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    background-color:lightpink
+}
+
+#resume {
+    background-color: lavenderblush;
+    font-family: "Monaco";
+}
+
+#contact {
+    background-color: lavenderblush;
+    font-family: "Monaco";
+}
